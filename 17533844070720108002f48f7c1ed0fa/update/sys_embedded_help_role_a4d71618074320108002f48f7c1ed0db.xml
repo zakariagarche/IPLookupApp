@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_591587_ipinfo_sp.ipaddressinfo_user" name="x_591587_ipinfo_sp.ipaddressinfo_user">ecd71618074320108002f48f7c1ed0d7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-18 12:10:55</sys_created_on>
+        <sys_id>a4d71618074320108002f48f7c1ed0db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecd71618074320108002f48f7c1ed0d7</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_591587_ipinfo_sp">17533844070720108002f48f7c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">17533844070720108002f48f7c1ed0fa</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a4d71618074320108002f48f7c1ed0db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-18 12:10:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

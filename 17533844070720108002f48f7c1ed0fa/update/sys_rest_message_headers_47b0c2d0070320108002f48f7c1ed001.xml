@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>content-type</name>
+        <rest_message display_value="IPInfo">657046d8070320108002f48f7c1ed04b</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-18 10:43:39</sys_created_on>
+        <sys_id>47b0c2d0070320108002f48f7c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>content-type</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_591587_ipinfo_sp">17533844070720108002f48f7c1ed0fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">17533844070720108002f48f7c1ed0fa</sys_scope>
+        <sys_update_name>sys_rest_message_headers_47b0c2d0070320108002f48f7c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-18 10:43:39</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>
